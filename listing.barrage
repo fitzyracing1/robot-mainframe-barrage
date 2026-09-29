@@ -1,0 +1,36 @@
+# robot-mainframe
+
+> Early C work named robot-mainframe. This wrap points back to the source.
+
+## Purpose
+Give a plain-language door to fitzyracing1/robot-mainframe.
+
+## How it works (plain English)
+1. Keep the original C repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- Robot mainframe (the named shelf)
+- C source
+
+## The actual code
+```
+# source: fitzyracing1/robot-mainframe
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/robot-mainframe”
+
+## Decisions the program makes
+- If a reader needs the program → send them to the source
+
+## What a person would notice
+A named wrap on a robot-mainframe door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
